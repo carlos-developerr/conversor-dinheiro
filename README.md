@@ -8,7 +8,7 @@
 ---
 Um conversor de dinheiro simples que permite a conversão entre dólar e real ou real para dólar.
 
-### Como Funciona
+### Informações
 
 1. **Seleção de Moeda:** O usuário escolhe a moeda de origem e a moeda de destino.
 2. **Entrada de Valor:** O valor a ser convertido é inserido no campo apropriado.
